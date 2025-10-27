@@ -86,4 +86,4 @@ All datasets were obtained from the Centers for Disease Control and Prevention (
 ---
 
 *This repository contains all final data, analyses, and figures from the project.*  
-*For inquiries, contact Yash Singh at yashksingh43@gmail.com.*
+*For inquiries, contact Yashkirat Singh at yashksingh43@gmail.com.*

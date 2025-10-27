@@ -1,0 +1,441 @@
+yearstart,locationabbr,locationdesc,topic,question,datavalue
+2022,GA,Georgia,Sleep,Short sleep duration among adults,38.8
+2022,IL,Illinois,Sleep,Short sleep duration among adults,36.0
+2022,UT,Utah,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,31.1
+2022,WY,Wyoming,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,34.2
+2022,FL,Florida,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,31.7
+2022,CO,Colorado,Sleep,Short sleep duration among adults,30.3
+2022,CO,Colorado,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,25.0
+2022,DC,District of Columbia,Mental Health,Average mentally unhealthy days among adults,4.8
+2022,GU,Guam,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,32.7
+2022,DE,Delaware,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,38.0
+2022,HI,Hawaii,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,25.9
+2022,CT,Connecticut,Mental Health,Depression among adults,19.3
+2022,DC,District of Columbia,Sleep,Short sleep duration among adults,31.9
+2022,GA,Georgia,Mental Health,Average mentally unhealthy days among adults,5.1
+2022,AZ,Arizona,Sleep,Short sleep duration among adults,34.8
+2022,HI,Hawaii,Mental Health,Average mentally unhealthy days among adults,3.9
+2022,CA,California,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,28.3
+2022,CO,Colorado,Mental Health,Depression among adults,21.3
+2022,FL,Florida,Mental Health,Depression among adults,18.3
+2022,CT,Connecticut,Mental Health,Average mentally unhealthy days among adults,4.9
+2022,DE,Delaware,Mental Health,Depression among adults,20.9
+2022,GU,Guam,Mental Health,Depression among adults,11.7
+2022,HI,Hawaii,Mental Health,Depression among adults,13.0
+2022,HI,Hawaii,Mental Health,Average mentally unhealthy days among adults,3.7
+2022,DC,District of Columbia,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,25.4
+2022,AK,Alaska,Sleep,Short sleep duration among adults,37.6
+2022,AZ,Arizona,Mental Health,Depression among adults,20.6
+2022,CO,Colorado,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,25.0
+2022,AL,Alabama,Mental Health,Average mentally unhealthy days among adults,5.6
+2022,CA,California,Mental Health,Average mentally unhealthy days among adults,4.7
+2022,DC,District of Columbia,Mental Health,Depression among adults,19.3
+2022,AZ,Arizona,Mental Health,Average mentally unhealthy days among adults,5.4
+2022,GA,Georgia,Mental Health,Depression among adults,19.2
+2022,GA,Georgia,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,37.4
+2022,DE,Delaware,Mental Health,Average mentally unhealthy days among adults,4.5
+2022,CO,Colorado,Mental Health,Average mentally unhealthy days among adults,5.2
+2022,AR,Arkansas,Mental Health,Depression among adults,26.6
+2022,AL,Alabama,Sleep,Short sleep duration among adults,40.5
+2022,AK,Alaska,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,32.1
+2022,FL,Florida,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,31.6
+2022,CT,Connecticut,Mental Health,Depression among adults,20.0
+2022,CA,California,Sleep,Short sleep duration among adults,35.2
+2022,AK,Alaska,Sleep,Short sleep duration among adults,37.1
+2022,FL,Florida,Mental Health,Average mentally unhealthy days among adults,5.0
+2022,CT,Connecticut,Mental Health,Average mentally unhealthy days among adults,4.6
+2022,DE,Delaware,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,37.9
+2022,AZ,Arizona,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,33.5
+2022,GU,Guam,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,33.0
+2022,AR,Arkansas,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,37.4
+2022,CA,California,Mental Health,Depression among adults,18.2
+2022,GU,Guam,Sleep,Short sleep duration among adults,50.2
+2022,AZ,Arizona,Mental Health,Average mentally unhealthy days among adults,5.2
+2022,GU,Guam,Mental Health,Depression among adults,11.6
+2022,GU,Guam,Mental Health,Average mentally unhealthy days among adults,4.5
+2022,FL,Florida,Mental Health,Average mentally unhealthy days among adults,4.7
+2022,AL,Alabama,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,38.4
+2022,AZ,Arizona,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,33.2
+2022,CA,California,Sleep,Short sleep duration among adults,34.8
+2022,AR,Arkansas,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,37.9
+2022,CA,California,Mental Health,Average mentally unhealthy days among adults,4.6
+2022,AL,Alabama,Mental Health,Depression among adults,24.6
+2022,CA,California,Mental Health,Depression among adults,18.1
+2022,AK,Alaska,Mental Health,Average mentally unhealthy days among adults,4.7
+2022,FL,Florida,Sleep,Short sleep duration among adults,37.4
+2022,AK,Alaska,Mental Health,Depression among adults,20.4
+2022,AK,Alaska,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,32.3
+2022,AR,Arkansas,Mental Health,Average mentally unhealthy days among adults,6.4
+2022,FL,Florida,Mental Health,Depression among adults,17.8
+2022,AL,Alabama,Mental Health,Average mentally unhealthy days among adults,5.8
+2022,CT,Connecticut,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,30.7
+2022,CT,Connecticut,Sleep,Short sleep duration among adults,36.4
+2022,GU,Guam,Mental Health,Average mentally unhealthy days among adults,4.5
+2022,CT,Connecticut,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,30.6
+2022,AL,Alabama,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,38.3
+2022,DE,Delaware,Sleep,Short sleep duration among adults,35.6
+2022,FL,Florida,Sleep,Short sleep duration among adults,38.8
+2022,DE,Delaware,Mental Health,Depression among adults,19.9
+2022,AK,Alaska,Mental Health,Depression among adults,20.3
+2022,GA,Georgia,Mental Health,Average mentally unhealthy days among adults,5.2
+2022,DE,Delaware,Sleep,Short sleep duration among adults,37.3
+2022,AL,Alabama,Sleep,Short sleep duration among adults,41.4
+2022,CA,California,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,28.1
+2022,AR,Arkansas,Mental Health,Average mentally unhealthy days among adults,6.1
+2022,CT,Connecticut,Sleep,Short sleep duration among adults,35.7
+2022,CO,Colorado,Sleep,Short sleep duration among adults,30.6
+2022,HI,Hawaii,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,27.0
+2022,AR,Arkansas,Sleep,Short sleep duration among adults,39.9
+2022,DC,District of Columbia,Sleep,Short sleep duration among adults,31.8
+2022,AR,Arkansas,Mental Health,Depression among adults,27.6
+2022,CO,Colorado,Mental Health,Depression among adults,21.8
+2022,AR,Arkansas,Sleep,Short sleep duration among adults,38.7
+2022,GA,Georgia,Mental Health,Depression among adults,19.4
+2022,AK,Alaska,Mental Health,Average mentally unhealthy days among adults,4.7
+2022,HI,Hawaii,Mental Health,Depression among adults,12.5
+2022,DC,District of Columbia,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,24.3
+2022,DC,District of Columbia,Mental Health,Average mentally unhealthy days among adults,4.6
+2022,AZ,Arizona,Sleep,Short sleep duration among adults,36.1
+2022,DE,Delaware,Mental Health,Average mentally unhealthy days among adults,4.8
+2022,AZ,Arizona,Mental Health,Depression among adults,20.2
+2022,DC,District of Columbia,Mental Health,Depression among adults,19.6
+2022,GU,Guam,Sleep,Short sleep duration among adults,50.4
+2022,AL,Alabama,Mental Health,Depression among adults,24.0
+2022,GA,Georgia,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,37.0
+2022,GA,Georgia,Sleep,Short sleep duration among adults,38.1
+2022,CO,Colorado,Mental Health,Average mentally unhealthy days among adults,5.1
+2022,IN,Indiana,Mental Health,Depression among adults,22.8
+2022,IL,Illinois,Mental Health,Average mentally unhealthy days among adults,4.5
+2022,MO,Missouri,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,36.7
+2022,MS,Mississippi,Mental Health,Depression among adults,21.1
+2022,MD,Maryland,Sleep,Short sleep duration among adults,38.7
+2022,NV,Nevada,Mental Health,Average mentally unhealthy days among adults,4.7
+2022,HI,Hawaii,Sleep,Short sleep duration among adults,45.9
+2022,MO,Missouri,Sleep,Short sleep duration among adults,37.7
+2022,IL,Illinois,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,33.3
+2022,MT,Montana,Mental Health,Average mentally unhealthy days among adults,5.1
+2022,KS,Kansas,Mental Health,Depression among adults,19.5
+2022,MD,Maryland,Sleep,Short sleep duration among adults,38.0
+2022,MN,Minnesota,Sleep,Short sleep duration among adults,29.6
+2022,ME,Maine,Mental Health,Depression among adults,28.4
+2022,MD,Maryland,Mental Health,Depression among adults,18.7
+2022,ID,Idaho,Mental Health,Depression among adults,23.2
+2022,MT,Montana,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,30.5
+2022,IN,Indiana,Mental Health,Average mentally unhealthy days among adults,5.2
+2022,KY,Kentucky,Mental Health,Average mentally unhealthy days among adults,5.0
+2022,MI,Michigan,Mental Health,Average mentally unhealthy days among adults,5.5
+2022,ME,Maine,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,33.1
+2022,NE,Nebraska,Sleep,Short sleep duration among adults,31.5
+2022,MD,Maryland,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,33.2
+2022,IA,Iowa,Mental Health,Depression among adults,19.2
+2022,NE,Nebraska,Mental Health,Average mentally unhealthy days among adults,4.2
+2022,MS,Mississippi,Mental Health,Average mentally unhealthy days among adults,4.9
+2022,NV,Nevada,Sleep,Short sleep duration among adults,39.3
+2022,KY,Kentucky,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,37.7
+2022,LA,Louisiana,Mental Health,Average mentally unhealthy days among adults,6.4
+2022,KY,Kentucky,Mental Health,Average mentally unhealthy days among adults,4.9
+2022,MA,Massachusetts,Mental Health,Average mentally unhealthy days among adults,4.7
+2022,MD,Maryland,Mental Health,Average mentally unhealthy days among adults,4.8
+2022,MN,Minnesota,Mental Health,Depression among adults,24.5
+2022,KY,Kentucky,Sleep,Short sleep duration among adults,39.6
+2022,IN,Indiana,Sleep,Short sleep duration among adults,38.6
+2022,KS,Kansas,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,36.5
+2022,ID,Idaho,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,33.2
+2022,MT,Montana,Mental Health,Average mentally unhealthy days among adults,5.5
+2022,MS,Mississippi,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,39.5
+2022,IL,Illinois,Mental Health,Depression among adults,17.7
+2022,ID,Idaho,Mental Health,Depression among adults,22.7
+2022,MT,Montana,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,30.8
+2022,IN,Indiana,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,37.7
+2022,MN,Minnesota,Sleep,Short sleep duration among adults,30.3
+2022,NE,Nebraska,Mental Health,Depression among adults,17.0
+2022,NE,Nebraska,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,35.6
+2022,IA,Iowa,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,37.8
+2022,KS,Kansas,Mental Health,Depression among adults,20.1
+2022,MN,Minnesota,Mental Health,Average mentally unhealthy days among adults,4.7
+2022,ME,Maine,Mental Health,Depression among adults,26.3
+2022,MI,Michigan,Mental Health,Average mentally unhealthy days among adults,5.2
+2022,LA,Louisiana,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,40.1
+2022,IN,Indiana,Mental Health,Average mentally unhealthy days among adults,5.4
+2022,MA,Massachusetts,Mental Health,Depression among adults,21.6
+2022,MI,Michigan,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,34.5
+2022,MS,Mississippi,Sleep,Short sleep duration among adults,37.8
+2022,ID,Idaho,Sleep,Short sleep duration among adults,32.5
+2022,MA,Massachusetts,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,27.1
+2022,MS,Mississippi,Sleep,Short sleep duration among adults,38.6
+2022,KY,Kentucky,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,38.1
+2022,MS,Mississippi,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,40.1
+2022,MA,Massachusetts,Mental Health,Depression among adults,22.2
+2022,ID,Idaho,Mental Health,Average mentally unhealthy days among adults,4.7
+2022,MA,Massachusetts,Mental Health,Average mentally unhealthy days among adults,4.9
+2022,LA,Louisiana,Mental Health,Average mentally unhealthy days among adults,6.2
+2022,IL,Illinois,Mental Health,Depression among adults,18.0
+2022,IA,Iowa,Mental Health,Depression among adults,18.5
+2022,MS,Mississippi,Mental Health,Average mentally unhealthy days among adults,5.1
+2022,MI,Michigan,Mental Health,Depression among adults,23.0
+2022,MI,Michigan,Sleep,Short sleep duration among adults,35.2
+2022,NV,Nevada,Sleep,Short sleep duration among adults,38.9
+2022,MD,Maryland,Mental Health,Average mentally unhealthy days among adults,4.6
+2022,IL,Illinois,Mental Health,Average mentally unhealthy days among adults,4.4
+2022,MN,Minnesota,Mental Health,Depression among adults,23.5
+2022,IA,Iowa,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,37.4
+2022,KY,Kentucky,Mental Health,Depression among adults,25.8
+2022,ME,Maine,Sleep,Short sleep duration among adults,33.4
+2022,NE,Nebraska,Mental Health,Depression among adults,17.5
+2022,NE,Nebraska,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,35.3
+2022,MN,Minnesota,Mental Health,Average mentally unhealthy days among adults,4.9
+2022,MT,Montana,Mental Health,Depression among adults,25.8
+2022,KS,Kansas,Sleep,Short sleep duration among adults,35.5
+2022,IA,Iowa,Mental Health,Average mentally unhealthy days among adults,4.4
+2022,LA,Louisiana,Mental Health,Depression among adults,26.4
+2022,ID,Idaho,Mental Health,Average mentally unhealthy days among adults,4.9
+2022,LA,Louisiana,Sleep,Short sleep duration among adults,40.5
+2022,ME,Maine,Mental Health,Average mentally unhealthy days among adults,5.1
+2022,ID,Idaho,Sleep,Short sleep duration among adults,33.2
+2022,MT,Montana,Sleep,Short sleep duration among adults,31.7
+2022,MN,Minnesota,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,33.6
+2022,KS,Kansas,Mental Health,Average mentally unhealthy days among adults,5.1
+2022,NV,Nevada,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,33.9
+2022,MA,Massachusetts,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,27.2
+2022,MI,Michigan,Sleep,Short sleep duration among adults,36.4
+2022,KS,Kansas,Sleep,Short sleep duration among adults,36.7
+2022,IA,Iowa,Sleep,Short sleep duration among adults,34.2
+2022,IN,Indiana,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,38.4
+2022,MI,Michigan,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,34.6
+2022,IN,Indiana,Mental Health,Depression among adults,23.3
+2022,MO,Missouri,Mental Health,Depression among adults,21.8
+2022,MA,Massachusetts,Sleep,Short sleep duration among adults,33.2
+2022,ME,Maine,Mental Health,Average mentally unhealthy days among adults,5.6
+2022,MO,Missouri,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,36.4
+2022,MD,Maryland,Mental Health,Depression among adults,18.1
+2022,KY,Kentucky,Sleep,Short sleep duration among adults,39.3
+2022,MO,Missouri,Mental Health,Average mentally unhealthy days among adults,5.5
+2022,LA,Louisiana,Sleep,Short sleep duration among adults,39.8
+2022,IL,Illinois,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,33.0
+2022,ME,Maine,Sleep,Short sleep duration among adults,32.7
+2022,IL,Illinois,Sleep,Short sleep duration among adults,36.7
+2022,KY,Kentucky,Mental Health,Depression among adults,26.4
+2022,NV,Nevada,Mental Health,Depression among adults,18.3
+2022,IA,Iowa,Mental Health,Average mentally unhealthy days among adults,4.6
+2022,MI,Michigan,Mental Health,Depression among adults,24.1
+2022,HI,Hawaii,Sleep,Short sleep duration among adults,45.6
+2022,MO,Missouri,Sleep,Short sleep duration among adults,36.8
+2022,MT,Montana,Mental Health,Depression among adults,24.5
+2022,MS,Mississippi,Mental Health,Depression among adults,20.5
+2022,NV,Nevada,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,33.5
+2022,NE,Nebraska,Mental Health,Average mentally unhealthy days among adults,4.1
+2022,ME,Maine,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,33.4
+2022,NV,Nevada,Mental Health,Average mentally unhealthy days among adults,4.9
+2022,LA,Louisiana,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,40.3
+2022,MT,Montana,Sleep,Short sleep duration among adults,32.9
+2022,NE,Nebraska,Sleep,Short sleep duration among adults,30.6
+2022,MN,Minnesota,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,33.6
+2022,KS,Kansas,Mental Health,Average mentally unhealthy days among adults,4.9
+2022,KS,Kansas,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,35.7
+2022,ID,Idaho,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,33.6
+2022,IN,Indiana,Sleep,Short sleep duration among adults,37.7
+2022,MA,Massachusetts,Sleep,Short sleep duration among adults,32.7
+2022,MO,Missouri,Mental Health,Depression among adults,22.4
+2022,LA,Louisiana,Mental Health,Depression among adults,27.0
+2022,NV,Nevada,Mental Health,Depression among adults,18.0
+2022,IA,Iowa,Sleep,Short sleep duration among adults,32.9
+2022,MO,Missouri,Mental Health,Average mentally unhealthy days among adults,5.2
+2022,MD,Maryland,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,33.5
+2022,RI,Rhode Island,Mental Health,Average mentally unhealthy days among adults,4.8
+2022,PA,Pennsylvania,Mental Health,Average mentally unhealthy days among adults,5.1
+2022,NM,New Mexico,Mental Health,Average mentally unhealthy days among adults,5.0
+2022,NJ,New Jersey,Sleep,Short sleep duration among adults,37.4
+2022,OH,Ohio,Mental Health,Average mentally unhealthy days among adults,5.7
+2022,SD,South Dakota,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,37.2
+2022,OH,Ohio,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,38.1
+2022,TN,Tennessee,Sleep,Short sleep duration among adults,39.8
+2022,SC,South Carolina,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,35.0
+2022,ND,North Dakota,Sleep,Short sleep duration among adults,33.2
+2022,US,United States,Mental Health,Average mentally unhealthy days among adults,4.9
+2022,PA,Pennsylvania,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,32.9
+2022,NY,New York,Mental Health,Depression among adults,17.8
+2022,NC,North Carolina,Sleep,Short sleep duration among adults,34.1
+2022,NC,North Carolina,Mental Health,Average mentally unhealthy days among adults,4.9
+2022,RI,Rhode Island,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,30.8
+2022,OR,Oregon,Mental Health,Depression among adults,24.8
+2022,NY,New York,Mental Health,Average mentally unhealthy days among adults,4.9
+2022,NH,New Hampshire,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,30.0
+2022,TN,Tennessee,Sleep,Short sleep duration among adults,38.8
+2022,ND,North Dakota,Mental Health,Depression among adults,21.6
+2022,SC,South Carolina,Mental Health,Depression among adults,20.6
+2022,NM,New Mexico,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,33.4
+2022,US,United States,Mental Health,Average mentally unhealthy days among adults,5.1
+2022,PR,Puerto Rico,Mental Health,Depression among adults,17.5
+2022,NJ,New Jersey,Mental Health,Average mentally unhealthy days among adults,4.5
+2022,RI,Rhode Island,Mental Health,Depression among adults,22.9
+2022,PR,Puerto Rico,Sleep,Short sleep duration among adults,37.6
+2022,SC,South Carolina,Sleep,Short sleep duration among adults,35.4
+2022,NJ,New Jersey,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,29.1
+2022,PR,Puerto Rico,Mental Health,Average mentally unhealthy days among adults,4.1
+2022,NH,New Hampshire,Mental Health,Depression among adults,26.8
+2022,TN,Tennessee,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,38.9
+2022,NJ,New Jersey,Sleep,Short sleep duration among adults,37.9
+2022,NY,New York,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,30.3
+2022,OK,Oklahoma,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,40.6
+2022,OH,Ohio,Mental Health,Average mentally unhealthy days among adults,6.0
+2022,SD,South Dakota,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,36.8
+2022,PR,Puerto Rico,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,34.1
+2022,NM,New Mexico,Mental Health,Depression among adults,21.3
+2022,NJ,New Jersey,Mental Health,Depression among adults,14.6
+2022,OK,Oklahoma,Mental Health,Depression among adults,27.4
+2022,SD,South Dakota,Mental Health,Average mentally unhealthy days among adults,3.9
+2022,SC,South Carolina,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,35.5
+2022,UT,Utah,Mental Health,Depression among adults,26.5
+2022,NC,North Carolina,Mental Health,Average mentally unhealthy days among adults,4.7
+2022,RI,Rhode Island,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,30.9
+2022,PA,Pennsylvania,Sleep,Short sleep duration among adults,38.1
+2022,NC,North Carolina,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,34.2
+2022,SD,South Dakota,Sleep,Short sleep duration among adults,31.2
+2022,OH,Ohio,Mental Health,Depression among adults,25.0
+2022,OK,Oklahoma,Mental Health,Average mentally unhealthy days among adults,5.7
+2022,US,United States,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,33.5
+2022,ND,North Dakota,Mental Health,Depression among adults,22.2
+2022,ND,North Dakota,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,35.4
+2022,ND,North Dakota,Sleep,Short sleep duration among adults,34.0
+2022,PA,Pennsylvania,Mental Health,Depression among adults,21.7
+2022,RI,Rhode Island,Sleep,Short sleep duration among adults,35.6
+2022,TX,Texas,Sleep,Short sleep duration among adults,36.9
+2022,RI,Rhode Island,Mental Health,Depression among adults,22.3
+2022,NJ,New Jersey,Mental Health,Average mentally unhealthy days among adults,4.4
+2022,TX,Texas,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,35.5
+2022,SC,South Carolina,Mental Health,Depression among adults,20.0
+2022,OR,Oregon,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,31.1
+2022,SD,South Dakota,Mental Health,Depression among adults,18.6
+2022,TX,Texas,Mental Health,Depression among adults,19.4
+2022,PR,Puerto Rico,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,35.9
+2022,NC,North Carolina,Mental Health,Depression among adults,22.4
+2022,NY,New York,Mental Health,Average mentally unhealthy days among adults,4.7
+2022,OK,Oklahoma,Mental Health,Average mentally unhealthy days among adults,5.5
+2022,TX,Texas,Mental Health,Depression among adults,19.4
+2022,NH,New Hampshire,Mental Health,Depression among adults,25.2
+2022,SC,South Carolina,Mental Health,Average mentally unhealthy days among adults,5.2
+2022,NJ,New Jersey,Mental Health,Depression among adults,14.8
+2022,OK,Oklahoma,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,40.0
+2022,SD,South Dakota,Mental Health,Average mentally unhealthy days among adults,4.1
+2022,NM,New Mexico,Sleep,Short sleep duration among adults,32.8
+2022,US,United States,Mental Health,Depression among adults,20.6
+2022,SD,South Dakota,Sleep,Short sleep duration among adults,32.9
+2022,NH,New Hampshire,Mental Health,Average mentally unhealthy days among adults,5.2
+2022,US,United States,Sleep,Short sleep duration among adults,36.1
+2022,OR,Oregon,Mental Health,Average mentally unhealthy days among adults,5.7
+2022,TX,Texas,Mental Health,Average mentally unhealthy days among adults,5.1
+2022,NM,New Mexico,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,32.4
+2022,NH,New Hampshire,Sleep,Short sleep duration among adults,33.8
+2022,PA,Pennsylvania,Sleep,Short sleep duration among adults,37.1
+2022,TX,Texas,Sleep,Short sleep duration among adults,37.1
+2022,UT,Utah,Mental Health,Depression among adults,26.1
+2022,NC,North Carolina,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,34.1
+2022,TN,Tennessee,Mental Health,Depression among adults,30.2
+2022,OH,Ohio,Sleep,Short sleep duration among adults,39.9
+2022,TX,Texas,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,35.7
+2022,TX,Texas,Mental Health,Average mentally unhealthy days among adults,5.1
+2022,OK,Oklahoma,Sleep,Short sleep duration among adults,36.2
+2022,NC,North Carolina,Mental Health,Depression among adults,21.7
+2022,OR,Oregon,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,30.9
+2022,ND,North Dakota,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,36.2
+2022,TN,Tennessee,Mental Health,Average mentally unhealthy days among adults,6.3
+2022,PA,Pennsylvania,Mental Health,Depression among adults,22.3
+2022,RI,Rhode Island,Sleep,Short sleep duration among adults,36.2
+2022,PA,Pennsylvania,Mental Health,Average mentally unhealthy days among adults,4.8
+2022,OK,Oklahoma,Mental Health,Depression among adults,26.9
+2022,SD,South Dakota,Mental Health,Depression among adults,17.9
+2022,UT,Utah,Mental Health,Average mentally unhealthy days among adults,5.2
+2022,NY,New York,Sleep,Short sleep duration among adults,38.4
+2022,NM,New Mexico,Mental Health,Depression among adults,21.0
+2022,NY,New York,Mental Health,Depression among adults,18.1
+2022,NH,New Hampshire,Sleep,Short sleep duration among adults,33.0
+2022,US,United States,Sleep,Short sleep duration among adults,36.8
+2022,SC,South Carolina,Mental Health,Average mentally unhealthy days among adults,4.9
+2022,NM,New Mexico,Sleep,Short sleep duration among adults,34.1
+2022,PA,Pennsylvania,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,33.3
+2022,US,United States,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,33.3
+2022,NH,New Hampshire,Mental Health,Average mentally unhealthy days among adults,5.7
+2022,OR,Oregon,Mental Health,Average mentally unhealthy days among adults,5.4
+2022,SC,South Carolina,Sleep,Short sleep duration among adults,36.6
+2022,US,United States,Mental Health,Depression among adults,21.1
+2022,PR,Puerto Rico,Mental Health,Depression among adults,17.3
+2022,RI,Rhode Island,Mental Health,Average mentally unhealthy days among adults,5.1
+2022,OH,Ohio,Mental Health,Depression among adults,26.0
+2022,TN,Tennessee,Mental Health,Average mentally unhealthy days among adults,6.0
+2022,OR,Oregon,Sleep,Short sleep duration among adults,31.8
+2022,OR,Oregon,Sleep,Short sleep duration among adults,30.9
+2022,ND,North Dakota,Mental Health,Average mentally unhealthy days among adults,4.4
+2022,PR,Puerto Rico,Mental Health,Average mentally unhealthy days among adults,4.2
+2022,TN,Tennessee,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,39.1
+2022,NC,North Carolina,Sleep,Short sleep duration among adults,35.0
+2022,ND,North Dakota,Mental Health,Average mentally unhealthy days among adults,4.3
+2022,NH,New Hampshire,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,30.2
+2022,OK,Oklahoma,Sleep,Short sleep duration among adults,35.5
+2022,UT,Utah,Mental Health,Average mentally unhealthy days among adults,5.3
+2022,NY,New York,Sleep,Short sleep duration among adults,38.8
+2022,NY,New York,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,30.1
+2022,NM,New Mexico,Mental Health,Average mentally unhealthy days among adults,4.8
+2022,OH,Ohio,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,38.4
+2022,PR,Puerto Rico,Sleep,Short sleep duration among adults,38.9
+2022,OH,Ohio,Sleep,Short sleep duration among adults,38.5
+2022,NJ,New Jersey,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,29.0
+2022,TN,Tennessee,Mental Health,Depression among adults,29.2
+2022,UT,Utah,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,31.8
+2022,OR,Oregon,Mental Health,Depression among adults,24.0
+2022,VA,Virginia,Mental Health,Average mentally unhealthy days among adults,5.3
+2022,WA,Washington,Mental Health,Average mentally unhealthy days among adults,5.3
+2022,VI,Virgin Islands,Mental Health,Depression among adults,10.8
+2022,WI,Wisconsin,Mental Health,Average mentally unhealthy days among adults,5.0
+2022,WA,Washington,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,31.6
+2022,WY,Wyoming,Mental Health,Average mentally unhealthy days among adults,4.6
+2022,VT,Vermont,Mental Health,Average mentally unhealthy days among adults,5.5
+2022,VT,Vermont,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,26.8
+2022,WA,Washington,Mental Health,Average mentally unhealthy days among adults,5.1
+2022,WI,Wisconsin,Mental Health,Depression among adults,23.0
+2022,WV,West Virginia,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,41.5
+2022,VI,Virgin Islands,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,29.4
+2022,WY,Wyoming,Mental Health,Depression among adults,22.1
+2022,VT,Vermont,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,26.9
+2022,WY,Wyoming,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,34.6
+2022,WI,Wisconsin,Sleep,Short sleep duration among adults,32.8
+2022,VT,Vermont,Mental Health,Depression among adults,25.9
+2022,WV,West Virginia,Mental Health,Average mentally unhealthy days among adults,6.2
+2022,WV,West Virginia,Mental Health,Depression among adults,26.9
+2022,VI,Virgin Islands,Mental Health,Average mentally unhealthy days among adults,3.1
+2022,WA,Washington,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,31.7
+2022,VI,Virgin Islands,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,32.1
+2022,WA,Washington,Mental Health,Depression among adults,25.0
+2022,WI,Wisconsin,Sleep,Short sleep duration among adults,33.9
+2022,WV,West Virginia,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,41.0
+2022,WY,Wyoming,Sleep,Short sleep duration among adults,33.4
+2022,WV,West Virginia,Mental Health,Average mentally unhealthy days among adults,6.6
+2022,VA,Virginia,Mental Health,Depression among adults,22.3
+2022,VT,Vermont,Sleep,Short sleep duration among adults,30.0
+2022,WY,Wyoming,Mental Health,Depression among adults,22.9
+2022,VA,Virginia,Sleep,Short sleep duration among adults,36.2
+2022,VI,Virgin Islands,Sleep,Short sleep duration among adults,39.0
+2022,VA,Virginia,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,35.4
+2022,WI,Wisconsin,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,38.1
+2022,VA,Virginia,Sleep,Short sleep duration among adults,36.9
+2022,WA,Washington,Sleep,Short sleep duration among adults,32.4
+2022,VA,Virginia,Mental Health,Depression among adults,21.8
+2022,WV,West Virginia,Sleep,Short sleep duration among adults,41.3
+2022,WA,Washington,Mental Health,Depression among adults,25.6
+2022,VI,Virgin Islands,Mental Health,Average mentally unhealthy days among adults,3.4
+2022,UT,Utah,Sleep,Short sleep duration among adults,34.2
+2022,WV,West Virginia,Mental Health,Depression among adults,28.0
+2022,VA,Virginia,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,35.2
+2022,VT,Vermont,Sleep,Short sleep duration among adults,29.6
+2022,VA,Virginia,Mental Health,Average mentally unhealthy days among adults,5.1
+2022,VI,Virgin Islands,Mental Health,Depression among adults,9.5
+2022,VI,Virgin Islands,Sleep,Short sleep duration among adults,39.9
+2022,WI,Wisconsin,Mental Health,Average mentally unhealthy days among adults,5.3
+2022,WV,West Virginia,Sleep,Short sleep duration among adults,42.6
+2022,WI,Wisconsin,"Nutrition, Physical Activity, and Weight Status",Obesity among adults,37.7
+2022,WY,Wyoming,Mental Health,Average mentally unhealthy days among adults,4.8
+2022,VT,Vermont,Mental Health,Depression among adults,24.8
+2022,VT,Vermont,Mental Health,Average mentally unhealthy days among adults,5.1
+2022,UT,Utah,Sleep,Short sleep duration among adults,34.3
+2022,WY,Wyoming,Sleep,Short sleep duration among adults,32.3
+2022,WI,Wisconsin,Mental Health,Depression among adults,24.2
+2022,WA,Washington,Sleep,Short sleep duration among adults,32.8

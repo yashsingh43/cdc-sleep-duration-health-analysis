@@ -2,7 +2,7 @@
 
 **Project Title:** Relationship Between Sleep Duration and Health Outcomes in the U.S.  
 **Author:** Yashkirat Singh  
-**Date:** June 2025 - July 2025
+**Date:** May 2025 - July 2025
 **Repository:** cdc-sleep-duration-health-analysis
 **Tools:** Python · Pandas · NumPy · Matplotlib · Plotly · BeautifulSoup · Requests
 
